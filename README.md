@@ -1,4 +1,5 @@
 ## Hi there 👋
+We are a Team of people participating on a STEM Competition called First Lego League. This Competition includes coding Lego Robots and developing a research project.
 
 <!--
 **321legorobotics/321legorobotics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
